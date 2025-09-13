@@ -20,7 +20,7 @@ Lo hice en esta pagina fue crear una pagina como para unirte a una empresa que p
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub:https://github.com/Gioglz/Ejercicio-1-Newsletter-
 Deploy: https://gioglz.github.io/Ejercicio-1-Newsletter-/
 ---
 
