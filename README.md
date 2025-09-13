@@ -21,7 +21,7 @@ Lo hice en esta pagina fue crear una pagina como para unirte a una empresa que p
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
+Deploy: https://gioglz.github.io/Ejercicio-1-Newsletter-/
 ---
 
 ## 📝 Reflexión
